@@ -1,0 +1,110 @@
+#myLabel {
+  font-size: 100;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: end;
+  x: 46%;
+  y: 66%;
+  fill: white;
+}
+
+#myLabl {
+  font-size: 100;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: start;
+  x: 54%;
+  y: 66%;
+  fill: white;
+}
+
+#ora11 {
+  font-size: 100;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: end;
+  x: 42%;
+  y: 66%;
+  fill: white;
+}
+
+
+#puncte{
+  font-size: 100;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%-2;
+  y: 63%-1;
+  fill: white;
+}
+
+#temperaturatext {
+  font-size: 37;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 74%;
+  y: 93%;
+  fill: white;
+}
+
+#trafictext {
+  font-size: 31;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 11%;
+  y: 16%;
+  fill: white;
+}
+
+#luminozitatetext {
+  font-size: 31;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 83%;
+  y: 16%;
+  fill: white;
+}
+
+#azi {
+  font-size: 22;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 9%;
+  y: 90%;
+  fill: white;
+}
+
+#azi2 {
+  font-size: 32;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 9%;
+  y: 90%;
+  fill: white;
+}
+
+#myLabl2 {
+  font-size: 32;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: end;
+  x: 95%;
+  y: 90%;
+  fill: white;
+}
+
+#nowifi{
+  font-size: 32;
+  font-family: Colfax-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%;
+  fill: white;
+}

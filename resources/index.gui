@@ -1,0 +1,47 @@
+<svg class="background">
+  
+  <svg id = "incendiu">
+    <image href="ACCIDENT.png" opacity="1" pointer-events="visible" />
+  </svg>
+  
+  <svg id = "cutremur">
+    <image href="CUTREMUR.png" opacity="1" pointer-events="visible"/>
+  </svg>
+  
+  <svg id = "accident">
+    <image href="INCENDIU.png" width="100%" height="100%" opacity="1" pointer-events="visible"/>
+  </svg>
+  
+  <svg id = "carosabil">
+    <image href="CAROSABIL.png" opacity="1" pointer-events="visible" />
+  </svg> 
+  
+  <svg id = "traficc">
+    <image href="TRAFIC.png" opacity="1" pointer-events="visible" />
+  </svg> 
+  
+  <svg id="normal">
+    <image href="Watch-face.png" opacity="1" pointer-events="visible" />
+    <text id="trafictext" />
+    <text id="myLabel" />
+    <text id="myLabl" />
+    <text id="puncte"/>
+    <text id="ora11" />
+    <text id="temperaturatext" />
+    <text id="luminozitatetext" />
+    <text id="azi" />
+    <rect id="myRect0" x="0" y="0" width="100%"  height="100%" fill="black" opacity="0" pointer-events="visible"/>
+  </svg>
+  
+  <svg id ="nodata">
+    <rect id="ceasul" x="0" y="0" width="100%"  height="100%" fill="black" opacity="1" pointer-events="visible"/>
+    <text id="myLabel2" />
+    <text id="myLabl2" />
+    <text id="puncte2"/>
+    <text id="ora112" />
+    <text id="azi2" />
+    <text id="nowifi" />
+    <rect id="myRect1" x="0" y="0" width="100%"  height="100%" fill="black" opacity="0" pointer-events="visible"/>
+  </svg>
+  
+</svg>

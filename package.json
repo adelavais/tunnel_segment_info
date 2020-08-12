@@ -1,0 +1,29 @@
+{
+  "fitbit": {
+    "appUUID": "99abfd12-4455-40d0-88fb-b0d367787a36",
+    "appType": "app",
+    "appDisplayName": "BTM",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "run_background",
+      "access_internet",
+      "access_location"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "BTM"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~1.0.0"
+  }
+}
